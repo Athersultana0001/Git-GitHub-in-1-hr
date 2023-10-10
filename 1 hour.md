@@ -32,7 +32,7 @@
 -   **git commit**: Records staged changes with a message.
 -   **git log**: Displays a history of commits.
 -   Example: Use these commands to add and commit changes to your repository.
-## 6. Git Branching Game 🌿 (5 minutes)**
+## **6. Git Branching Game 🌿 (5 minutes)**
 ![image](https://github.com/Athersultana0001/Git-GitHub-in-1-hr/assets/129726145/132a3ac7-4279-45c5-8c12-a1beb1a34f19)
 
 -    Engage participants in an interactive Git branching game.
