@@ -7,7 +7,7 @@
 | 3. Installing Git 🛠️                      | 5 minutes    |
 | 4. Initializing a Git Repository 🏗️      | 5 minutes    |
 | 5. Basic Git Commands 🏭                 | 5 minutes   |
-| 6. Git Branching Game                     | 5 minutes   |
+| 6. Git Branching Game 🌿                    | 5 minutes   |
 | 7. Making Changes and Committing 🔍       | 10 minutes   |
 | 8. Introduction to GitHub 🚀             | 5 minutes    |
 | 9. Cloning a GitHub Repository 🧩        | 5 minutes    |
